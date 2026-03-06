@@ -3,7 +3,7 @@
 A high-fidelity frontend recreation of the Amazon homepage, built with a focus on modern CSS layouts and smooth user interactions.
 
 ## 🚀 Live Demo
-[Check out the live site here!](INSERT_YOUR_LINK_HERE)
+[Check out the live site here!](https://shivahnp.github.io/amazon-ui-clone/)
 
 ## ✨ Key Features
 - **Dynamic Image Slider:** Fully functional banner slider with auto-play and manual navigation.
@@ -17,9 +17,3 @@ A high-fidelity frontend recreation of the Amazon homepage, built with a focus o
 - **CSS3:** Custom properties (Variables), Media Queries, and Transitions.
 - **Vanilla JavaScript:** Event-driven logic for slider and sidebar without external libraries.
 - **Bootstrap Icons:** Scalable vector icons for a professional look.
-
-## 📂 Installation
-To run this project locally:
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/amazon-clone.git](https://github.com/your-username/amazon-clone.git)
